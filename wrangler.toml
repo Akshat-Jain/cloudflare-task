@@ -1,0 +1,4 @@
+name = "cloudflare-task"
+type = "javascript"
+account_id = "63dcc1ed0efc4cc84c78ed61a5597c13"
+workers_dev = true
